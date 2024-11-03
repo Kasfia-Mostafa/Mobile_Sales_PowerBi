@@ -2,7 +2,7 @@
 
 I recently completed a data-driven Mobile Sales Dashboard using Power BI! This project involved developing a comprehensive dashboard to track, analyze, and visualize key sales metrics for mobile products.
 
-![ss](https://github.com/user-attachments/assets/7c507627-f69d-43e2-a901-36c262d8ffc7)
+![ss](https://github.com/user-attachments/assets/d09e0aa9-e554-4e11-985a-0191876e70c3)
 
 💡 Key Features & Insights:
 
