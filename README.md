@@ -4,6 +4,8 @@ I recently completed a data-driven Mobile Sales Dashboard using Power BI! This p
 
 ![ss](https://github.com/user-attachments/assets/d09e0aa9-e554-4e11-985a-0191876e70c3)
 
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNWMzOGYyZjUtZTFlMS00MmRhLTlhYmMtMTU5YjIyNDRiZmI2IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
+
 💡 Key Features & Insights:
 
 📈 Sales Trends: Tracked monthly and quarterly sales performance, providing insights into top-performing products and regions.
